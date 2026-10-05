@@ -1,0 +1,7 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+reverseOutlineDirection: false
+decomposeTransformedComponents: false
+sources:
+  - SixCaps.glyphs
